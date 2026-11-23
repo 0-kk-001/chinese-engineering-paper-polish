@@ -22,7 +22,7 @@ git clone https://github.com/0-kk-001/chinese-engineering-paper-polish.git "$env
 调用示例：
 
 ~~~text
-使用 $chinese-engineering-paper-polish，依据批注整体优化论文，
+使用 $chinese-engineering-paper-polish对当前论文进行优化
 ~~~
 
 也可以限定范围：
