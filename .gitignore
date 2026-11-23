@@ -1,0 +1,27 @@
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Manuscripts and task outputs
+*.doc
+*.docx
+*.docm
+*.pdf
+*.xlsx
+*.xls
+*.zip
+output/
+outputs/
+private/
+drafts/
+reports/
+_validation/
+comments*.json
+comments*.txt
+批注*.json
+批注*.txt
