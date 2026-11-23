@@ -18,6 +18,7 @@
 ~~~powershell
 git clone https://github.com/0-kk-001/chinese-engineering-paper-polish.git "$env:USERPROFILE/.codex/skills/chinese-engineering-paper-polish"
 ~~~
+或直接丢给AI让AI帮你装
 
 调用示例：
 
